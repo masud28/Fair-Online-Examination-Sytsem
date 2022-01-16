@@ -1,0 +1,2 @@
+# Fair-Online-Examination-Sytsem
+The project “Fair Online Examination System” is a web-based application. I have built this project to avoid cut, copy, pasting. If this system has a build-in professional level then it will automate our existing examination system into a digitized exam system. In this system it will require less labor force for executing the system and it will be more accurate and less time consuming and at the same time I can conduct more person exam at the same time and it will publish results in a very short time. 
